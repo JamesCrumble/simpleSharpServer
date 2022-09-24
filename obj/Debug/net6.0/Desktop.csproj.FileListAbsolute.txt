@@ -1,0 +1,15 @@
+/home/james/Desktop/ccc_sharp/bin/Debug/net6.0/Desktop
+/home/james/Desktop/ccc_sharp/bin/Debug/net6.0/Desktop.deps.json
+/home/james/Desktop/ccc_sharp/bin/Debug/net6.0/Desktop.runtimeconfig.json
+/home/james/Desktop/ccc_sharp/bin/Debug/net6.0/Desktop.dll
+/home/james/Desktop/ccc_sharp/bin/Debug/net6.0/Desktop.pdb
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/Desktop.csproj.AssemblyReference.cache
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/Desktop.GeneratedMSBuildEditorConfig.editorconfig
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/Desktop.AssemblyInfoInputs.cache
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/Desktop.AssemblyInfo.cs
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/Desktop.csproj.CoreCompileInputs.cache
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/Desktop.dll
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/refint/Desktop.dll
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/Desktop.pdb
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/Desktop.genruntimeconfig.cache
+/home/james/Desktop/ccc_sharp/obj/Debug/net6.0/ref/Desktop.dll
